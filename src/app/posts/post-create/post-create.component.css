@@ -1,0 +1,11 @@
+mat-card{
+    width: 80%;
+    margin: auto;
+}
+.btn_save{
+    width: 150px;
+    margin: 5px;
+}
+textarea{
+    width: 100%;
+}
